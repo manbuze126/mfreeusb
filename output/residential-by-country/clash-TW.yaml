@@ -36,7 +36,7 @@ proxies:
       Host: 59.125.69.23
 - name: 🇹🇼 中国台湾 (Taiwan) 03 (家宽) - xiaohe
   type: vless
-  server: hinet1.2yly.com
+  server: 61.230.160.34
   port: 24215
   uuid: 19d5a678-8396-4e3b-93da-ece618d0e83a
   udp: true
